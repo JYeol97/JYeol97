@@ -10,6 +10,8 @@
 
 ### 🤔 I’m learning Backend on Spring Framework
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwangwoo&layout=compact&hide=csharp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeol&layout=compact&langs_count=1&hide=html,css,java,javascript)
+
 
 ### 🧑‍💻 I'm solving problems using algorithms.
 [![SolvedAC tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=pk1761)](https://solved.ac/{})
