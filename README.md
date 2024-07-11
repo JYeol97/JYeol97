@@ -23,7 +23,7 @@
 
 <div align="center">
   
-### 🤔 SSAFY에서 백엔드를 배우고 있습니다
+### 🤔 I'm still studying..
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhalesBob&layout=compact&hide=procfile,shell,C,HTML,html,css,java,javascript,cpp)](https://github.com/anuraghazra/github-readme-stats)
 
