@@ -18,8 +18,11 @@
 ### 🧑‍💻 I'm solving problems using algorithms.
 [![SolvedAC tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=pk1761)](https://solved.ac/{})
 
+<h3 align = "center">
+📞 Contact 📞
+</h3>
 
-## 📞 Contact 📞
+<div align = "center">
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:a01092201761@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
