@@ -13,8 +13,8 @@
 
 ## 📫 연락 방법
 - 📧 이메일: dlawoduf15@naver.com
-- 🔗 [LinkedIn](https://velog.io/@dreamjob/posts)
-- 🏠 [개인 블로그](https://blog.naver.com/icelatte28)
+- 🔗 [velog](https://velog.io/@dreamjob/posts)
+- 🏠 [NAVER BLOG](https://blog.naver.com/icelatte28)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
