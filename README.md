@@ -18,7 +18,7 @@
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50">
