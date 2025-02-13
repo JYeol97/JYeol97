@@ -3,7 +3,7 @@
 
 ## 🔭 프로젝트
 - 🎯 금융 관련 웹사이트 개발 
-- 📡 WebRTC를 이용한 실시간 스트르밍 플랫폼
+- 📡 WebRTC를 이용한 실시간 스트리밍 플랫폼
 
 ## 🌱 공부 중인 기술
 - Python (Django, FastAPI)
@@ -31,7 +31,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="80" height="50" style="object-fit: contain;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" width="80" height="50" style="object-fit: contain;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="80" height="50" style="object-fit: contain;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="Spring" width="80" height="50" style="object-fit: contain;">
 </div>
 
 
