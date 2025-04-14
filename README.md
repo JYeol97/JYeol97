@@ -104,7 +104,7 @@
 <h3 align="center">🖊️ CERTIFICATE 🖊️</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://velog.io/@dreamjob/posts)">
-    <p>중등 정교사 자격증</p>
+    <p>중등 정교사 자격증 (2급)</p>
   </a>
 
 ## 
