@@ -101,6 +101,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">🖊️ CERTIFICATE 🖊️</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://velog.io/@dreamjob/posts)">
