@@ -4,12 +4,15 @@
 ## 🔭 프로젝트
 - 🎯 금융 관련 웹사이트 개발 
 - 📡 WebRTC를 이용한 실시간 스트리밍 플랫폼
+- 🎸 AI기반 실시간 기타 자세 분석 플랫폼
 
 ## 🌱 공부 중인 기술
-- Python (Django, FastAPI)
-- JavaScript (Vue.js, React)
+- Python (FastAPI)
+- Next.js
+- TypeScript
 - WebRTC, 머신러닝
-- Java (Spring)
+- Java
+- React Query
 
 ## 📫 연락 방법
 - 📧 이메일: dlawoduf15@naver.com
