@@ -101,5 +101,11 @@
 
 </div>
 
+<h3 align="center">🖊️ CERTIFICATE 🖊️</h3>
+<div align="center">
+  <a href="[https://velog.io/@oka1313](https://velog.io/@dreamjob/posts)">
+    <p>중등 정교사 자격증</p>
+  </a>
+
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeol97&layout=compact)
