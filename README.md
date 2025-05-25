@@ -55,7 +55,6 @@
 ---
 
 <div align="center">
-<hr/>
 
 <h3> 🧱 Tech Stack</h3>
 
@@ -143,5 +142,3 @@
 </div>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYeol97)
