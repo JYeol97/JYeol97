@@ -128,6 +128,15 @@
 
 ---
 
+<h3 align="center">🏆 수상 경력 🏆</h3>
+<div align="center">
+  <p>2025.02 - 실시간 소통 기반 미술 교육 플랫폼 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
+  <p>2025.05 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>우수상</strong> (SSAFY) 🥈</p>
+</div>
+
+
+---
+
 <h3 align="center">🖊️ CERTIFICATE 🖊️</h3>
 <div align="center">
   <p>중등 정교사 자격증 (2급)</p>
