@@ -10,7 +10,7 @@
 
 ## 🔭 프로젝트
 
-- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.03 ~ 2025.05)  
+- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05)  
   - FFHQ Face Alignment, Mediapipe, BiSeNet 기반 얼굴형 분석 파이프라인 구축  
   - Celery + Redis 비동기 처리 및 진행률 조회 기능 구현  
   - FastAPI + Spring Boot 조합 AI 분석 서버 및 REST API 서버 개발  
