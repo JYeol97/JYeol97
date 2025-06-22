@@ -131,6 +131,7 @@
 <div align="center">
   <p>2025.02 - 실시간 소통 기반 미술 교육 플랫폼 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
   <p>2025.05 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
+  <p>2025.05 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>입상</strong> (SSAFY) 🥇</p>
 </div>
 
 
