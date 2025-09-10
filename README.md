@@ -16,23 +16,23 @@
   - React + FastAPI + AWS S3 연동 블로그 자동 생성 웹서비스 구현  
   - 공모전 출품 및 최종 결과물 전시 경험  
 
-- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05)  
+- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05, SSAFY)  
   - FFHQ Face Alignment, Mediapipe, BiSeNet 기반 얼굴형 분석 파이프라인 구축  
   - Celery + Redis 비동기 처리 및 진행률 조회 기능 구현  
   - FastAPI + Spring Boot 조합 AI 분석 서버 및 REST API 서버 개발  
   - AWS S3, CloudFront, MySQL과 연동한 엔드투엔드 파이프라인 설계  
 
-- 🎸 **AI 기반 실시간 기타 자세 분석 플랫폼** (2025.02 ~ 2025.04)  
+- 🎸 **AI 기반 실시간 기타 자세 분석 플랫폼** (2025.02 ~ 2025.04, SSAFY)  
   - YOLOv11 기반 자세 인식 및 실시간 피드백 제공 (WebSocket)  
   - RandomForest, KNN, SVM 기반 리듬/박자 분석 및 점수화 시스템  
   - FastAPI, React Query, S3 연동 AI 분석 및 UI 구현  
   - Jenkins, Docker, Docker-Compose 기반 CI/CD 파이프라인 구축
 
-- 📡 **WebRTC를 활용한 실시간 소통 기반 미술 교육 플랫폼** (2025.01 ~ 2025.02)  
+- 📡 **WebRTC를 활용한 실시간 소통 기반 미술 교육 플랫폼** (2025.01 ~ 2025.02, SSAFY)  
   - OpenVidu, WebSocket 기반 실시간 그림 수업 및 AI 유사도 분석  
   - 강의 생성 및 대시보드, 실시간 스트리밍 및 타임라인 기능 제공
 
-- 💸 **금융 관련 웹사이트 개발** (2024.11)  
+- 💸 **금융 관련 웹사이트 개발** (2024.11, SSAFY)  
   - 사용자 투자 성향 분석 및 금융 상품 추천 서비스  
   - Django + Vue.js 기반 풀스택 구현, 실시간 금융 데이터 제공  
 
