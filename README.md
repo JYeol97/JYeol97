@@ -62,7 +62,7 @@
 
 ## 📫 연락 방법
 
-- 📧 이메일: dlawoduf15@naver.com
+- 📧 이메일: a01092201761@gmail.com
 - 🔗 [velog](https://velog.io/@dreamjob/posts)
 - 🏠 [NAVER BLOG](https://blog.naver.com/icelatte28)
 
