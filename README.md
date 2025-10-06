@@ -166,7 +166,7 @@
 
 ---
 
-<h3 align="center">📚 Studying 📚</h3>
+<!-- <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A.svg?style=for-the-badge&logo=Celery&logoColor=white" />
@@ -177,7 +177,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" />
 </div>
 
----
+--- -->
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
