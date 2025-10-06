@@ -27,7 +27,7 @@
   - JWT 기반 로그인 인증/인가 로직 구현 및 검증 (Spring Boot)
   - 프론트엔드(React, TypeScript, Zustand, React Query) 담당, 전체 개발
 
-- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05, SSAFY) 🥇 🥉
+- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05, SSAFY) 🥇 🥇
   - FFHQ Face Alignment, Mediapipe, BiSeNet 기반 얼굴형 분석 파이프라인 구축  
   - Celery + Redis 비동기 처리 및 진행률 조회 기능 구현  
   - FastAPI + Spring Boot 조합 AI 분석 서버 및 REST API 서버 개발  
@@ -209,7 +209,7 @@
 
 <h3 align="center">🏆 수상 경력 🏆</h3>
 <div align="center">
-  <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>전시발표회 입상</strong> (SSAFY) 🥉</p>
+  <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>전시발표회 입상</strong> (SSAFY) 🥇</p>
   <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
   <p>2025.02 - 실시간 소통 기반 미술 교육 플랫폼 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
 </div>
