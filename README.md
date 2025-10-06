@@ -64,11 +64,6 @@
 
 ---
 
-## 📫 연락 방법
-
-- 📧 이메일: a01092201761@gmail.com
-- 🔗 [velog](https://velog.io/@dreamjob/posts)
----
 
 <div align="center">
 
@@ -199,6 +194,10 @@
   <a href="https://velog.io/@dreamjob/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
+  <a href="mailto:a01092201761@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 </div>
 
 ---
