@@ -1,5 +1,6 @@
 # 👋 안녕하세요! JYeol97입니다.
 
+
 프론트엔드, AI, 인프라 등 다양한 분야를 두루 경험하며,  
 **사용자 친화적인 웹서비스 개발**부터 **AI 기반 분석 파이프라인 구축**,  
 **안정적 배포·운영 환경 설계**까지 폭넓게 다뤄왔습니다.  
@@ -61,6 +62,9 @@
 - React (React Query, Recoil)
 - AI 모델 최적화 및 GPU 연산 (Torch, OpenCV, NumPy)
 - Docker, Docker-Compose, Jenkins
+
+---
+<h3 align="center">👇 Developer Insight 👇</h3>
 
 ---
 
@@ -194,9 +198,10 @@
   <a href="https://velog.io/@dreamjob/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
-  <a href="mailto:a01092201761@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=a01092201761@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
   
 </div>
 
