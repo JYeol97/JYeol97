@@ -16,49 +16,51 @@
 
 ---
 
-## 🔭 프로젝트
+## 🔭 프로젝트 (담당역할)
 
-- 🌍 **관광데이터 기반 AI 여행 블로그 생성 서비스** (2025.07 ~ ing, 카카오와 함께하는 관광데이터 공모전)  
+- 🌍 **관광데이터 기반 AI 여행 블로그 생성 서비스** (2025.07 ~ ing, 카카오와 함께하는 관광데이터 공모전) 
   - YOLO + Places365 + BLIP-2 기반 이미지 분석 및 키워드 추출 파이프라인 구축  
   - 감성적/관계 중심 블로그 문장 자동 생성 모델 개발  
   - React + FastAPI 블로그 자동 생성 웹서비스 구현  
   - 이미지/장소 입력 → 시간순 Markdown 변환 → 프론트 요청 대응 구조 설계
-  - JWT 기반 로그인 인증/인가 로직 구현 및 검증
-  - 프론트엔드(React, Zustand, React Query) 담당, 전체 개발
+  - JWT 기반 로그인 인증/인가 로직 구현 및 검증 (Spring Boot)
+  - 프론트엔드(React, TypeScript, Zustand, React Query) 담당, 전체 개발
 
-- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05, SSAFY)  
+- 🎨 **얼굴형 분석 기반 맞춤형 헤어스타일 이미지 생성 서비스** (2025.04 ~ 2025.05, SSAFY) 🥇 🥉
   - FFHQ Face Alignment, Mediapipe, BiSeNet 기반 얼굴형 분석 파이프라인 구축  
   - Celery + Redis 비동기 처리 및 진행률 조회 기능 구현  
   - FastAPI + Spring Boot 조합 AI 분석 서버 및 REST API 서버 개발  
   - AWS S3, CloudFront, MySQL과 연동한 엔드투엔드 파이프라인 설계  
 
 - 🎸 **AI 기반 실시간 기타 자세 분석 플랫폼** (2025.02 ~ 2025.04, SSAFY)  
-  - YOLOv11 기반 자세 인식 및 실시간 피드백 제공 (WebSocket)  
-  - RandomForest, KNN, SVM 기반 리듬/박자 분석 및 점수화 시스템  
-  - FastAPI, React Query, S3 연동 AI 분석 및 UI 구현  
-  - Jenkins, Docker, Docker-Compose 기반 CI/CD 파이프라인 구축
+  - AWS, Nginx, Jenkins, Docker, Docker-Compose 기반 CI/CD 파이프라인 구축
+  - 게시글, 마이페이지, 회원기능 등 FrontEnd 개발 (React, TypeScript, Zustand, React Query)
 
-- 📡 **WebRTC를 활용한 실시간 소통 기반 미술 교육 플랫폼** (2025.01 ~ 2025.02, SSAFY)  
-  - OpenVidu, WebSocket 기반 실시간 그림 수업 및 AI 유사도 분석  
-  - 강의 생성 및 대시보드, 실시간 스트리밍 및 타임라인 기능 제공
+- 📡 **WebRTC를 활용한 실시간 소통 기반 미술 교육 플랫폼** (2025.01 ~ 2025.02, SSAFY) 🥇
+  - 마이페이지 및 대시보드 기능 제공
+  - 강의 생성 및 대시보드 기능 제공
+  - 게시글 및 댓글 기능 제공
+  - 전반적인 UI/UX 컴포넌트 담당
+  - 100건 이상의 QA 대응
 
 - 💸 **금융 관련 웹사이트 개발** (2024.11, SSAFY)  
-  - 사용자 투자 성향 분석 및 금융 상품 추천 서비스  
-  - Django + Vue.js 기반 풀스택 구현, 실시간 금융 데이터 제공  
+  - Django + Vue.js 기반 **풀스택 웹서비스** 구현  
+  - **메인 페이지**, **게시글 CRUD**, **회원가입/로그인**, **마이페이지** 등 주요 기능 개발  
+  - **카카오지도 API**를 활용한 금융상품 위치 기반 시각화 기능 구현  
+  - **설문조사 기능**을 통한 사용자 투자 성향 분석 및 맞춤형 추천 로직 구현  
+  - 프로젝트 **최종 발표 및 시연 담당**, 전반적인 기능 통합 및 QA 수행  
+
 
 ---
 
 ## 🌱 공부 중인 기술
 
-- Python (FastAPI, Mediapipe, BiSeNet, Celery)
+- Python (Django, FastAPI, Mediapipe, BiSeNet, Celery)
 - JavaScript (ES6+)
 - TypeScript
 - React (React Query, Recoil)
-- Vue.js (Vue 3, Composition API, Pinia)
 - AI 모델 최적화 및 GPU 연산 (Torch, OpenCV, NumPy)
-- WebRTC, 머신러닝
 - Docker, Docker-Compose, Jenkins
-- AWS S3, CloudFront, MySQL
 
 ---
 
@@ -66,8 +68,6 @@
 
 - 📧 이메일: a01092201761@gmail.com
 - 🔗 [velog](https://velog.io/@dreamjob/posts)
-- 🏠 [NAVER BLOG](https://blog.naver.com/icelatte28)
-
 ---
 
 <div align="center">
@@ -145,7 +145,7 @@
 
 <h3 align="center">🏆 수상 경력 🏆</h3>
 <div align="center">
-  <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>전시발표회 입상</strong> (SSAFY) 🥇</p>
+  <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>전시발표회 입상</strong> (SSAFY) 🥉</p>
   <p>2025.06 - 얼굴형 분석 기반 맞춤형 헤어스타일 서비스 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
   <p>2025.02 - 실시간 소통 기반 미술 교육 플랫폼 개발 PJT - <strong>최우수상</strong> (SSAFY) 🥇</p>
 </div>
